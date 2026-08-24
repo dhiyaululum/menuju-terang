@@ -1,4 +1,4 @@
-# Samudera kesadaran 🌌
+# Samudera kesadaran
 
 > بسم الله الرحمن الرحيم  
 > الحمد لله حمدًا كثيرًا طيبًا مباركًا فيه  
@@ -11,9 +11,8 @@ Bait demi bait ditulis untuk merenungi dunia, kehidupan, dan akhirat. Dalam gaya
 ---
 
 📘 **Struktur**
-- 📂 `bait/` — Folder utama yang berisi bait-bait refleksi.
-- 📄 `pembukaan.md` — Mukadimah, niat, dan pujian.
-- 📝 `README.md` — Penjelasan umum.
+- `bait/` - Folder utama yang berisi bait-bait refleksi.
+- `README.md` - Penjelasan umum.
 
 📚 Tidak ada urutan mutlak. Pembaca bebas membaca bait mana saja, seperti memilih dedaunan yang gugur di jalan sunyi kehidupan.
 
@@ -32,6 +31,4 @@ Karya ini terbuka untuk dibaca dan dibagikan, selama tidak digunakan untuk hal y
 
 🤲 **Doa**
 Semoga setiap bait yang tertulis menjadi cahaya yang menyinari yang membaca dan menulis, dalam dunia dan akhirat. آمين.
-
-📖 [Baca Mukadimah Lengkap →](./pembukaan.md)
 
