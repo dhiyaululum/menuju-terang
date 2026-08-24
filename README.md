@@ -4,7 +4,7 @@
 > الحمد لله حمدًا كثيرًا طيبًا مباركًا فيه  
 > والصلاة والسلام على سيدنا محمد، وعلى آله وأصحابه أجمعين
 
-**Samudera kesadaran** adalah seruan spiritual dan filosofis dari dalam rimba zaman—sebuah kumpulan bait reflektif yang mengalir spontan dari hati yang sedang mencari makna.
+**Samudera kesadaran** adalah seruan spiritual dan filosofis dari dalam rimba zaman, sebuah kumpulan bait reflektif yang mengalir spontan dari hati yang sedang mencari makna.
 
 Bait demi bait ditulis untuk merenungi dunia, kehidupan, dan akhirat. Dalam gaya yang bebas namun tetap bertanggung jawab secara nilai, karya ini tidak dimaksudkan sebagai buku baku, melainkan sebagai jejak perenungan yang hidup dan berkembang.
 
